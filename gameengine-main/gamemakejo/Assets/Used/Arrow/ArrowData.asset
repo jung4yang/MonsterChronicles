@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cac3684e06cb51640a7107ca770dabef, type: 3}
+  m_Name: ArrowData
+  m_EditorClassIdentifier: 
+  weaponName: Arrow
+  weaponType: 1
+  weaponPrefab: {fileID: 9007591986965232082, guid: 0feeae1af10806a4a9e0fe68b913a511, type: 3}
+  projectilePrefab: {fileID: 9007591986965232082, guid: 0feeae1af10806a4a9e0fe68b913a511, type: 3}
+  attackSpeed: 1.5
+  attackRange: 1
+  attackPower: 1
+  upgradeCount: 0
+  weaponImage: {fileID: 21300000, guid: c77bc1fb09793fd48bc2b25eeed606e2, type: 3}
+  isMultiShot: 0
+  penetration: 0
